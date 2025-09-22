@@ -21,7 +21,7 @@ Recently, I'm interested in front-end language and how to build a complete proje
 In my free time, I like to watch some funny videos or to play some games.
 I like Infinity Nikki a lot! Here is a photo a took in this game.(she is really so cute.🥳)
 <picture>
- <img alt="YOUR-ALT-TEXT" src="![2025_09_20_20_46_09_2229255](https://github.com/user-attachments/assets/311bad28-1318-4a72-b4cb-218894c2aeb7)">
+ <img alt="Nikki" src="![2025_09_20_20_46_09_2229255](https://github.com/user-attachments/assets/311bad28-1318-4a72-b4cb-218894c2aeb7)">
 </picture>
 I also like Crochet, painting, cooking ...😋
 
