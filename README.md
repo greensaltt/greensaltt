@@ -1,4 +1,4 @@
-![2025_09_20_20_46_09_2229255](https://github.com/user-attachments/assets/e77efcfc-945d-458a-8d84-0d25a20c83d7)# 👋 Hi there, I'm GreenSalt.  
+# 👋 Hi there, I'm GreenSalt.  
 
 ## 👨‍💻 About Me
 - 🌱 I’m currently learning **Computer Science**
@@ -20,9 +20,7 @@
 ## 🥰 Interests
 - In my free time, I like to watch some funny videos or to play some games.
 - I like Infinity Nikki a lot! Here is a photo a took in this game.(she is really so cute.🥳)
-<picture>
- <img alt="Nikki" src="![2025_09_20_20_46_09_2229255](https://github.com/user-attachments/assets/fd82530a-4e01-4123-b615-efbd2e4f6a25)">
-</picture>
+- ![2025_09_20_20_46_09_2229255](https://github.com/user-attachments/assets/e77efcfc-945d-458a-8d84-0d25a20c83d7) 
 - I also like Crochet, painting, cooking ...😋
 ---
 
