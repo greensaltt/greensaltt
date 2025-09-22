@@ -11,14 +11,8 @@
 
 ## 🚀 Skills & Tools
 <!-- 可以添加徽章，比如来自 https://shields.io -->
-
+I have learned C and C++, and also some Java, but I have forgotten a lot now and am in the process of rehabilitation.🤧
 ---
 
-## 📊 GitHub Stats
-<!-- 下面两个图可以展示贡献情况 -->
-
----
-
----
 
 ⭐️ From [greensaltt](https://github.com/greensaltt)
