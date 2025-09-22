@@ -1,23 +1,24 @@
-![2025_09_20_20_49_35_2434988](https://github.com/user-attachments/assets/a16b4b8f-1b2b-431e-b1be-9d7937a0d9b5)
+# 👋 Hi there, I'm GreenSalt.  
 
-<!--
-**greensaltt/greensaltt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🌱 I’m currently learning **Computer Science**
+- 💡 Interested in **animation and games**
+- 🛠️ Tech stack: **im space🫥**
+- 📫 How to reach me: **499467652@qq.com**
+- ⚡ Fun fact: **I love pineapple pizza 🍍🍕 (yes, really).**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+<!-- 可以添加徽章，比如来自 https://shields.io -->
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="![2025_09_14_17_19_21_2859958](https://github.com/user-attachments/assets/2a48e2a1-a148-4837-bfe4-2caee6ad8f78)">
- <source media="(prefers-color-scheme: light)" srcset="![2025_09_20_20_49_35_2434988](https://github.com/user-attachments/assets/7b5d2ee8-fe2b-4c16-bdd4-c6613c3f907d)">
- <img alt="YOUR-ALT-TEXT" src="![2025_09_14_19_25_45_1728887](https://github.com/user-attachments/assets/6831fb7d-2b3d-420a-ac28-e353fe3f927c)">
-</picture>
+---
 
+## 📊 GitHub Stats
+<!-- 下面两个图可以展示贡献情况 -->
+
+---
+
+---
+
+⭐️ From [greensaltt](https://github.com/greensaltt)
